@@ -53,13 +53,21 @@
 # a=20
 # print(id(a))
 
-a=29.75
-b=-1.75
-c=-2.5E2
-d=-3.1e-2
-print(a,b,c,d)
+# a=29.75
+# b=-1.75
+# c=-2.5E2
+# d=-3.1e-2
+# print(a,b,c,d)
 
+# x=True
+# y=False
+# print(x,y)
+#  print(int(x))
+c=10+3j
+print(type(c))
 
+d=complex(3,2)
+print(d)
 
 
 
