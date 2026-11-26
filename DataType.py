@@ -1,0 +1,10 @@
+length=15
+print(length)
+prices=[10,20,30,40]
+print(prices)
+name,price,qty='shoap',14.50,4
+print(name,price,qty)
+a,b,c=1,1,1
+print(id(a),id(b),id(c))
+a=b=c=1
+print(id(a),id(b),id(c))
